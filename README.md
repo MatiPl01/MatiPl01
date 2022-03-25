@@ -1,14 +1,26 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateusz Łopaciński</h1>
-<h3 align="center">I'm a second-year student of computer science at AGH University of Science and Technology passionating about creating websites and software.</h3>
-<br>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateusz</h1>
 
-<h2 align="center">📈 My statistics</h2>
+<h3 align="center">I'm a second-year student from Poland <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Animated-Flag-Poland.gif?20070209180509" style="width: 30px"/></h3>
+
+<br>
+<h2 align="center">:man_technologist: About me:</h2>
+
+- 👨‍🎓 I'm a **Computer Science** student at the **Faculty of Computer Science, Electronics and Communication** at the **AGH University of Science and Technology**.
+
+- 💡 Currently I'm learning, among others **Python**, **JavaScript**, **C**, **Operating Systems**, **Databases**.
+
+- ⏲️ In my free time, I solve problems on CodeWars and read tech articles.
+
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matipl01-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matipl01/)
+
+<br>
+<h2 align="center">🔥 My statistics</h2>
 <div align="center">
-  <img style="border-radius: 5px; width: 425px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb"/>
-  <img style="width: 415px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
+  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb"/>
+  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
 </div>
 <br>
-<img style="border-radius: 5px;" alt="Mateusz Łopaciński's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true"/>
+<img alt="Mateusz Łopaciński's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
 
 <br>
 <h2 align="center">🚀 Languages that I know</h2>
@@ -26,7 +38,7 @@
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>   
 </div>
 
-<h2 align="center">⚙️ Technologies I worked with</h2>
+<h2 align="center">:hammer_and_wrench: Technologies I worked with</h2>
 
 <div align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
@@ -40,6 +52,7 @@
 <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
 <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
