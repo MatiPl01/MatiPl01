@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm a **Computer Science** student at the **Faculty of Computer Science, Electronics and Communication** at the **AGH University of Science and Technology**.
 
-- 💡 Currently I'm learning, among others **Python**, **JavaScript**, **C**, **Operating Systems**, **Databases**.
+- 💡 Currently I'm learning, among others **Python**, **JavaScript**, **C**, **Operating Systems** and **Databases**.
 
 - ⏲️ In my free time, I solve problems on CodeWars and read tech articles.
 
@@ -21,6 +21,11 @@
 </div>
 <br>
 <img alt="Mateusz Łopaciński's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
+
+<div align="center">
+  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb"/>
+  <h6><i>I decided to exclude all Jupyter Notebook files from being tracked as they accounted for more than 90% of the total (GitHub probably counts all the text in markdowns, images, etc. as code)</i></h6>
+</div>
 
 <br>
 <h2 align="center">🚀 Languages that I know</h2>
@@ -58,4 +63,3 @@
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
 <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
 </div>
-
