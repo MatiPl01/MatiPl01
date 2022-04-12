@@ -23,7 +23,7 @@
 <img alt="Mateusz Łopaciński's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
 
 <div align="center">
-  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb"/>
+  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb&card_width=325"/>
   <h6><i>I decided to exclude all Jupyter Notebook files from being tracked as they accounted for more than 90% of the total (GitHub probably counts all the text in markdowns, images, etc. as code)</i></h6>
 </div>
 
