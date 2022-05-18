@@ -17,13 +17,13 @@
 <h2 align="center">🔥 My statistics</h2>
 <div align="center">
   <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb"/>
-  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
+  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
 </div>
 <br>
 <img alt="Mateusz Łopaciński's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
 
 <div align="center">
-  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb&card_width=325"/>
+  <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb&card_width=325"/>
   <h6><i>I decided to exclude all Jupyter Notebook files from being tracked as they accounted for more than 90% of the total (GitHub probably counts all the text in markdowns, images, etc. as code)</i></h6>
 </div>
 
