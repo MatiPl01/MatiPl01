@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateusz</h1>
 
-<h3 align="center">I'm a second-year student from Poland <img src="https://upload.wikimedia.org/wikipedia/commons/b/b5/Animated-Flag-Poland.gif?20070209180509" style="width: 30px"/></h3>
+<h3 align="center">I'm a second-year student from Poland</h3>
 
 <br>
 <h2 align="center">:man_technologist: About me:</h2>
