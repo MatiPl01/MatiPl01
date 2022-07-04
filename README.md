@@ -47,7 +47,7 @@
 <a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="40" height="40"/> </a>
 </div>
 
-<h2 align="center">:hammer_and_wrench: Technologies I worked with</h2>
+<h2 align="center">:hammer_and_wrench: Technologies I have worked with</h2>
 
 <div align="center">
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
