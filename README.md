@@ -9,9 +9,9 @@
 
 - 👨‍💻 **Frontend Developer** Intern at **Software Mansion**,
 
-- 💡 I'm learning, **React**, **Redux** and **React Native**,
+- 💡 I'm currently learning **React**, **Redux** and **React Native**,
 
-- ⏲️ In my free time, I listen to **music** 🎧, watch **movies** 🎥, read **tech articles** 📰 and ride a **bicycle** 🚴,
+- ⏲️ In my free time I listen to **music** 🎧, watch **movies** 🎥, read **tech articles** 📰 and ride a **bicycle** 🚴,
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matipl01-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matipl01/)
 
