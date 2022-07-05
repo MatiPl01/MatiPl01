@@ -7,7 +7,7 @@
 
 - 👨‍🎓 I'm a **Computer Science** student at the **Faculty of Computer Science, Electronics and Communication** at the **AGH University of Science and Technology**,
 
-- 👨‍💻 **Frontend Developer** Intern at **Software Mansion**,
+- 👨‍💻 **Software Engineer** Intern at **Software Mansion**,
 
 - 💡 I'm currently learning **React**, **Redux** and **React Native**,
 
