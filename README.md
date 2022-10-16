@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Mateusz</h1>
 
-<h3 align="center">I'm a second-year student from Poland</h3>
+<h3 align="center">I'm a third-year student from Poland</h3>
 
 <br>
 <h2 align="center">👨 About me:</h2>
 
 - 👨‍🎓 I'm a **Computer Science** student at the **Faculty of Computer Science, Electronics and Communication** at the **AGH University of Science and Technology**,
 
-- 👨‍💻 **Software Engineer** Intern at **Software Mansion**,
+- 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion),
 
-- 💡 I'm currently learning **React Native**, **Docker** and **AWS**,
+- 💡 Crrently learning **Cryptography**, **Object-Oriented Technologies**, **IoT**, **Computer Networks**, **Concurrency Theory**, **AI**, **Theory of Computation and Computational Complexity** and **Computer Graphics Programming with Three.js**,
 
 - ⏲️ In my free time I listen to **music** 🎧, watch **movies** 🎥, read **tech articles** 📰 and ride a **bicycle** 🚴,
 
