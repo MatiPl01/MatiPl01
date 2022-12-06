@@ -22,7 +22,7 @@
   <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
 </div>
 <br>
-<img alt="Mateusz Łopaciński's Github Stats" src="https://activity-graph.herokuapp.com/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
+<img alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=My%20Activity%20Graph"/>
 
 <div align="center">
   <img style="width: 420px;" alt="Mateusz Łopaciński's Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=8&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb&card_width=325"/>
