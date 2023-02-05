@@ -145,7 +145,7 @@
       <img width="275px" alt="https://github.com/MatiPl01/Pac-Man-PixBlocks" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&hide_border=true&title_color=222" />
     </picture>
   </a>
-  <a href="https://github.com/MatiPl01/Fruit_Ninja_OpenCV">
+  <a href="https://github.com/kacperklusek/Fruit_Ninja_OpenCV">
      <picture>
       <source media="(prefers-color-scheme: dark)" width="275px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
       <img width="275px" alt="https://github.com/MatiPl01/Fruit_Ninja_OpenCV" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&hide_border=true&title_color=222" />
