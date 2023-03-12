@@ -93,7 +93,7 @@
   <a href="https://github.com/MatiPl01/PokeDex-Mobile">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/PokeDex-Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/PokeDex-Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -103,19 +103,19 @@
   <a href="https://github.com/MatiPl01/Elevator-System">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/Elevator-System" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/Elevator-System" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/Pokedex-App">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/Pokedex-App" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/Pokedex-App" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/DB2-Restaurant">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/DB2-Restaurant" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/DB2-Restaurant" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -125,13 +125,13 @@
   <a href="https://github.com/MatiPl01/DebtExecutor">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/DebtExecutor" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/DebtExecutor" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/Evolution-Simulation">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/Evolution-Simulation" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/Evolution-Simulation" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -141,19 +141,19 @@
   <a href="https://github.com/MatiPl01/Tetris-Game">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/Tetris-Game" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/Tetris-Game" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/Pac-Man-PixBlocks">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/Pac-Man-PixBlocks" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/Pac-Man-PixBlocks" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/kacperklusek/Fruit_Ninja_OpenCV">
      <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/Fruit_Ninja_OpenCV" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/Fruit_Ninja_OpenCV" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -163,7 +163,7 @@
   <a href="https://github.com/MatiPl01/disco-dancers">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="275px" alt="https://github.com/MatiPl01/disco-dancers" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&hide_border=true&title_color=222" />
+      <img width="420px" alt="https://github.com/MatiPl01/disco-dancers" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
