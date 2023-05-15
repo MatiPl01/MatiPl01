@@ -17,7 +17,7 @@
 <h2 align="center">🔥 Statistics</h2>
 <div align="center">
  <picture>
-    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb" />
+    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb" />
     <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&ring=54bd9a&fire=000&currStreakNum=000&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=222&dates=333&hide_border=true" />
   </picture>
   <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
