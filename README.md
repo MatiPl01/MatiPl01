@@ -25,7 +25,7 @@
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=Activity%20Chart" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=Activity%20Chart" />
   <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=fefefe&color=222&line=54bd9a&point=000&hide_border=true&custom_title=Activity%20Chart" />
 </picture>
 
