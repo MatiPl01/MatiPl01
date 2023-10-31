@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateusz</h1>
 
-<h3 align="center">I'm a third-year student from Poland</h3>
+<h3 align="center">I'm a fourth-year student from Poland</h3>
 
 <br>
 <h2 align="center">👨 About me:</h2>
@@ -17,21 +17,21 @@
 <h2 align="center">🔥 Statistics</h2>
 <div align="center">
  <picture>
-    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb" />
-    <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&ring=54bd9a&fire=000&currStreakNum=000&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=222&dates=333&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=MatiPl01&background=0d1117&border=0d1117&ring=ea8137&fire=fff&currStreakNum=fff&sideNums=ea8137&currStreakLabel=ea8137&sideLabels=eee&dates=bbb" />
+    <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&ring=ea8137&fire=000&currStreakNum=000&sideNums=ea8137&currStreakLabel=ea8137&sideLabels=222&dates=333&hide_border=true" />
   </picture>
-  <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
+  <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,b05c2b,f8e07a&hide_border=true&text_color=111&border_radius=5"/>
 </div>
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=Activity%20Chart" />
-  <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=fefefe&color=222&line=54bd9a&point=000&hide_border=true&custom_title=Activity%20Chart" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=ea8137&point=fff&hide_border=true&custom_title=Activity%20Chart" />
+  <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=fefefe&color=222&line=ea8137&point=000&hide_border=true&custom_title=Activity%20Chart" />
 </picture>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=ea8137&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
     <img width="420px" alt="Most used languages" src="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&title_color=222&hide_border=true" />
   </picture>
   <h6><i>I decided to exclude all Jupyter Notebook files from being tracked as they accounted for more than 90% of the total (GitHub probably counts all the text in markdowns, images, etc. as code)</i></h6>
