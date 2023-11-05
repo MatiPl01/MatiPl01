@@ -17,21 +17,21 @@
 <h2 align="center">🔥 Statistics</h2>
 <div align="center">
  <picture>
-    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=MatiPl01&background=0d1117&border=0d1117&ring=ea8137&fire=fff&currStreakNum=fff&sideNums=ea8137&currStreakLabel=ea8137&sideLabels=eee&dates=bbb" />
-    <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&ring=ea8137&fire=000&currStreakNum=000&sideNums=ea8137&currStreakLabel=ea8137&sideLabels=222&dates=333&hide_border=true" />
+    <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-streak-stats-matipl01.vercel.app/?user=MatiPl01&background=0d1117&border=0d1117&ring=54bd9a&fire=fff&currStreakNum=fff&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=eee&dates=bbb" />
+    <img width="420px" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiPl01&ring=54bd9a&fire=000&currStreakNum=000&sideNums=54bd9a&currStreakLabel=54bd9a&sideLabels=222&dates=333&hide_border=true" />
   </picture>
-  <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,b05c2b,f8e07a&hide_border=true&text_color=111&border_radius=5"/>
+  <img width="420px" alt="Github Stats" src="https://github-readme-stats-matipl01.vercel.app/api?username=MatiPl01&count_private=true&show_icons=true&title_color=fff&icon_color=000&bg_color=60,359d9e,7be495&hide_border=true&text_color=111&border_radius=5"/>
 </div>
 <br>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=ea8137&point=fff&hide_border=true&custom_title=Activity%20Chart" />
-  <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=fefefe&color=222&line=ea8137&point=000&hide_border=true&custom_title=Activity%20Chart" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=MatiPl01&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&custom_title=Activity%20Chart" />
+  <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=fefefe&color=222&line=54bd9a&point=000&hide_border=true&custom_title=Activity%20Chart" />
 </picture>
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=ea8137&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
     <img width="420px" alt="Most used languages" src="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&title_color=222&hide_border=true" />
   </picture>
   <h6><i>I decided to exclude all Jupyter Notebook files from being tracked as they accounted for more than 90% of the total (GitHub probably counts all the text in markdowns, images, etc. as code)</i></h6>
@@ -67,12 +67,14 @@
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> 
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
+ <a href="https://zustand-demo.pmnd.rs/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--OTBN-Alb--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/lftgzwgzy8g2u8vqwso2.png" alt="zustand" width="60" height="40"/> </a>
 <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> 
-<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+ <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.png" alt="express" width="50" height="30"/> </a> 
+<a href="https://nextjs.org" target="_blank" rel="noreferrer"> <img src="https://images.ctfassets.net/c63hsprlvlya/IacLLeOBR5WCvdCPqKuff/6860b5cc464c4f54703a2befa3f706b4/nextjs3.webp" alt="next.js" width="50" height="30"/> </a> 
+<a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Babel_Logo.svg/1200px-Babel_Logo.svg.png" alt="babel" width="50" height="40"/> </a> 
+<a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://webpack.js.org/icon-pwa-512x512.934507c816afbcdb.png" alt="webpack" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
 <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/>
@@ -88,12 +90,22 @@
 <br>
 <h2 align="center">💻 Public projects and contributions</h2>
 
+<h3> 📚 Libraries</h2>
+<div>
+  <a href="https://github.com/MatiPl01/react-native-skia-responsive-text">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=react-native-skia-responsive-text&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/PokeDex-Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=react-native-skia-responsive-text&hide_border=true&title_color=222" />
+    </picture>
+  </a>
+</div>
+
 <h3>📱 Mobile apps</h2>
 <div>
   <a href="https://github.com/MatiPl01/PokeDex-Mobile">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/PokeDex-Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/PokeDex-Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=PokeDex-Mobile&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -102,20 +114,20 @@
 <div>
   <a href="https://github.com/MatiPl01/Elevator-System">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/Elevator-System" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/Elevator-System" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Elevator-System&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/Pokedex-App">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/Pokedex-App" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/Pokedex-App" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pokedex-App&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/DB2-Restaurant">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/DB2-Restaurant" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/DB2-Restaurant" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DB2-Restaurant&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -124,14 +136,14 @@
 <div>
   <a href="https://github.com/MatiPl01/DebtExecutor">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/DebtExecutor" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/DebtExecutor" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=DebtExecutor&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/Evolution-Simulation">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/Evolution-Simulation" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/Evolution-Simulation" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Evolution-Simulation&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -140,20 +152,20 @@
 <div>
   <a href="https://github.com/MatiPl01/Tetris-Game">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/Tetris-Game" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/Tetris-Game" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Tetris-Game&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/MatiPl01/Pac-Man-PixBlocks">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/Pac-Man-PixBlocks" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/Pac-Man-PixBlocks" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=Pac-Man-PixBlocks&hide_border=true&title_color=222" />
     </picture>
   </a>
   <a href="https://github.com/kacperklusek/Fruit_Ninja_OpenCV">
      <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/Fruit_Ninja_OpenCV" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/Fruit_Ninja_OpenCV" src="https://github-readme-stats.vercel.app/api/pin/?username=kacperklusek&repo=Fruit_Ninja_OpenCV&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
@@ -162,8 +174,8 @@
 <div>
   <a href="https://github.com/MatiPl01/disco-dancers">
     <picture>
-      <source media="(prefers-color-scheme: dark)" width="420px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="420px" alt="https://github.com/MatiPl01/disco-dancers" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&hide_border=true&title_color=222" />
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="https://github.com/MatiPl01/disco-dancers" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
