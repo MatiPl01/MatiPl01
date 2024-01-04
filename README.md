@@ -94,7 +94,13 @@
   <a href="https://github.com/MatiPl01/react-native-skia-responsive-text">
     <picture>
       <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=react-native-skia-responsive-text&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-      <img width="279px" alt="https://github.com/MatiPl01/PokeDex-Mobile" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=react-native-skia-responsive-text&hide_border=true&title_color=222" />
+      <img width="279px" alt="react-native-skia-responsive-text" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=react-native-skia-responsive-text&hide_border=true&title_color=222" />
+    </picture>
+  </a>
+  <a href="https://github.com/MatiPl01/eslint-config-react-native-matipl01">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" width="279px" srcset="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=eslint-config-react-native-matipl01&bg_color=0d1117&hide_border=true&text_color=e7e7e8&title_color=bbb" />
+      <img width="279px" alt="eslint-config-react-native-matipl01" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=eslint-config-react-native-matipl01&hide_border=true&title_color=222" />
     </picture>
   </a>
 </div>
