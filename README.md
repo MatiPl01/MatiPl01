@@ -23,7 +23,8 @@
 
 <h3>Hackathons</h3>
 
-- 🥈 Awarded Second Place at the [**mHack 2023 hackathon**](https://mhack.pl/) - mobile app featuring an intelligent that accurately responds to law-related inquiries by referencing and quoting relevant legal paragraphs,
+- 🥈 Awarded **Second** Place at the [**mHack 2023 hackathon**](https://mhack.pl/) - mobile app featuring an intelligent bot that accurately responds to law-related inquiries by referencing and quoting relevant legal paragraphs,
+- 🥇 Awarded **First** Place at the [**BiteHack 2024 Hackathon**](https://bitehack.best.krakow.pl/) - mobile app with AI consultant helping people struggling with addictions. It fetures AI-powered addiction diagnosis and consulting.
 
 <br>
 <h2 align="center">🔥 Statistics</h2>
