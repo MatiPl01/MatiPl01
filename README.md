@@ -7,7 +7,7 @@
 
 <h3>Key facts</h3>
 
-- 👨‍🎓 **Computer Science** student at the **Faculty of Computer Science** at the **AGH University of Science and Technology**,
+- 👨‍🎓 **Bachelor's degree** (Engineering) **graduate** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Science and Technology**.,
 
 - 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with **2 years** of working experience,
 
