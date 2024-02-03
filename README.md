@@ -7,11 +7,11 @@
 
 <h3>Key facts</h3>
 
-- 👨‍🎓 **Bachelor's degree** (Engineering) **graduate** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Science and Technology**.,
+- 👨‍🎓 **Bachelor's degree** (Engineering) **graduate** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Science and Technology**,
 
 - 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with **2 years** of working experience,
 
-- ⏲️ In my free time, I listen to **music** 🎧, watch **movies** 🎥, read **tech articles** 📰, do workouts at the gym 🏋️‍♂️, and ride my bicycle 🚴,
+- ⏲️ In my free time, I listen to **music** 🎧, watch **movies** 🎥, read **tech articles** 📰 and do workouts at the gym 🏋️‍♂️,
 
 - 💻 I fuel my passion and skill-set by venturing into the creation of personal projects, maximizing learning from each experience,
 
@@ -47,7 +47,7 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
     <img width="420px" alt="Most used languages" src="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&title_color=222&hide_border=true" />
   </picture>
-  <h6><i>I decided to exclude all Jupyter Notebook files from being tracked as they accounted for more than 90% of the total (GitHub probably counts all the text in markdowns, images, etc. as code)</i></h6>
+  <h6><i>I excluded all Jupyter Notebook files from being tracked as they messed up stats</i></h6>
 </div>
 
 <br>
