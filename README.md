@@ -19,7 +19,8 @@
 
 <h3>Public contributions</h3>
 
-- Contributed to the [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) animations library for React Native,
+- [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) - animations library for React Native,
+- [**react-native-svg**](https://github.com/software-mansion/react-native-svg) - SVG graphics library for React Native,
 
 <h3>Hackathons</h3>
 
