@@ -17,7 +17,7 @@
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-matipl01-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matipl01/)
 
-<h3>Public contributions</h3>
+<h3>Open-source contributions</h3>
 
 - [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) - animations library for React Native,
 - [**react-native-svg**](https://github.com/software-mansion/react-native-svg) - SVG graphics library for React Native,
