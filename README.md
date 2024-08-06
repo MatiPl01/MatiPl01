@@ -22,6 +22,7 @@
 - [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) - animations library for React Native,
 - [**react-native-svg**](https://github.com/software-mansion/react-native-svg) - SVG graphics library for React Native,
 - [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) - native context menu library for React Native,
+- [react-native-skia-gesture](https://github.com/enzomanuelmangano/react-native-skia-gesture) - gesture detection system for React Native Skia components,
 
 <h3>Hackathons</h3>
 
