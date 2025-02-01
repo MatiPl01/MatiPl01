@@ -57,12 +57,6 @@
 <img alt="Activity chart" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatiPl01&bg_color=fefefe&color=222&line=6ca1d1&point=000&hide_border=true&custom_title=Activity%20Chart" />
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&bg_color=0d1117&color=bbb&line=54bd9a&point=fff&hide_border=true&text_color=e7e7e8&title_color=bbb" />
-  <img width="420px" alt="Most used languages" src="https://github-readme-stats-matipl01.vercel.app/api/top-langs/?username=MatiPl01&layout=compact&hide=Jupyter%20Notebook&langs_count=10&title_color=222&hide_border=true" />
-</picture>
-<h6><i>I excluded all Jupyter Notebook files from being tracked as they messed up stats</i></h6>
-
 <br>
 
 </div>
