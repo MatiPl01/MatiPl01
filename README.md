@@ -65,27 +65,6 @@
 
 <br>
 
-## 🚀 Languages that I know
-
-[![Languages](https://skillicons.dev/icons?i=ts,js,cpp,c,cs,java,kotlin,swift,py,ruby,html,sass,css,go,bash)](https://skillicons.dev)
-
-## 🛠️ Things I have worked with
-
-### Frontend tools and technologies
-
-[![Frontend Technologies](https://skillicons.dev/icons?i=androidstudio,apple,react,redux,apollo,angular,tailwind,bootstrap,pug,threejs,jest,vitest,vite,babel,webpack)](https://skillicons.dev)
-[![Frontend Technologies](https://skillicons.dev/icons?i=yarn,npm,pnpm,bun,vercel,heroku,figma)](https://skillicons.dev)
-
-### Backend technologies
-
-[![backend Technologies](https://skillicons.dev/icons?i=spring,express,nodejs,django,fastapi,firebase,rabbitmq,graphql,hibernate,kubernetes,docker,mysql,mongodb,postgres,sqlite)](https://skillicons.dev)
-[![backend Technologies](https://skillicons.dev/icons?i=jenkins,postman)](https://skillicons.dev)
-
-### Others
-
-[![Others](https://skillicons.dev/icons?i=pycharm,idea,clion,webstorm,visualstudio,cmake,gradle,anaconda,tensorflow,pytorch,sklearn,aws,git,github,gitlab)](https://skillicons.dev)
-[![Others](https://skillicons.dev/icons?i=sentry,linux,blender,codepen,obsidian,unreal)](https://skillicons.dev)
-
 </div>
 
 <br>
@@ -191,4 +170,16 @@
       <img width="279px" alt="https://github.com/MatiPl01/disco-dancers" src="https://github-readme-stats.vercel.app/api/pin/?username=MatiPl01&repo=disco-dancers&hide_border=true&title_color=222" />
     </picture>
   </a>
+</div>
+
+<div align="center">
+
+## 🚀 Languages that I know
+
+[![Languages](https://skillicons.dev/icons?i=ts,js,cpp,c,cs,java,kotlin,swift,py,ruby,html,sass,css,go,bash)](https://skillicons.dev)
+
+## 🛠️ Technologies I have worked with
+
+[![Frontend Technologies](https://skillicons.dev/icons?i=androidstudio,apple,react,redux,apollo,angular,tailwind,bootstrap,pug,threejs,jest,vitest,vite,babel,webpack,yarn,npm,pnpm,bun,vercel,heroku,figma,spring,express,nodejs,django,fastapi,firebase,rabbitmq,graphql,hibernate,kubernetes,docker,mysql,mongodb,postgres,sqlite,jenkins,postman,pycharm,idea,clion,webstorm,visualstudio,cmake,gradle,anaconda,tensorflow,pytorch,sklearn,aws,git,github,gitlab,sentry,linux,blender,codepen,obsidian,unreal)](https://skillicons.dev)
+
 </div>
