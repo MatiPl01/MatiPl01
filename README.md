@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateusz
 
-### Software Engineer | Open-Source Contributor | CS Student
+### Software Engineer | Open-Source Contributor | Master of CS Student
 
 <br>
 
@@ -20,7 +20,7 @@
 
 - 💻 I enjoy **writing code, working on personal projects**, and **exploring new technologies**,
 
-- 🎧 In my free time, I listen to **music** 🎵, watch **movies** 🎥, read **tech articles** 📰, and go to the **gym** 🏋️‍♂️,
+- 🎧 In my free time I like to do **workouts at the gym** 🏋️‍♂️, watch **movies** 🎥, listen to **music** 🎵, and read **tech articles** 📰,
 
 - 📫 How to reach me:
 
@@ -32,11 +32,13 @@
 - [**react-native-svg**](https://github.com/software-mansion/react-native-svg) - SVG graphics library for React Native,
 - [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) - native context menu library for React Native,
 - [react-native-skia-gesture](https://github.com/enzomanuelmangano/react-native-skia-gesture) - gesture detection system for React Native Skia components,
+- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - library to render paginated content,
 
 <h3>Hackathons</h3>
 
+- 🏆 **Finalist** at the [**OpenAI x AI Tinkerers**](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw) Hackathon - intelligent drone system, powered by OpenAI Agents technology, for real-time hazard detection,
+- 🥇 **Winner** of the [**BiteHack 2024 Hackathon**](https://bitehack.best.krakow.pl/) - mobile app with AI consultant helping people struggling with addictions. It fetures AI-powered addiction diagnosis and consulting,
 - 🥈 Awarded **Second** Place at the [**mHack 2023 hackathon**](https://mhack.pl/) - mobile app featuring an intelligent bot that accurately responds to law-related inquiries by referencing and quoting relevant legal paragraphs,
-- 🥇 **Winner** of the [**BiteHack 2024 Hackathon**](https://bitehack.best.krakow.pl/) - mobile app with AI consultant helping people struggling with addictions. It fetures AI-powered addiction diagnosis and consulting.
 
 <div align="center">
 
