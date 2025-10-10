@@ -12,7 +12,7 @@
 
 ### Key facts
 
-- 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with **3 years** of experience,
+- 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with over **3 years** of working experience,
 
 - 🎨 **Author of the CSS Animations & Transitions Core** in [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated),
 
@@ -20,7 +20,7 @@
 
 - 💻 I enjoy **writing code, working on personal projects**, and **exploring new technologies**,
 
-- 🎧 In my free time I like to do **workouts at the gym** 🏋️‍♂️, watch **movies** 🎥, listen to **music** 🎵, and read **tech articles** 📰,
+- 🌟 In my free time, I enjoy **working out** at the gym 🏋️‍♂️, **dancing** salsa and bachata 💃🕺, **listening to music** 🎵, and - if I still have any time left - **watching movies** 🎥.
 
 - 📫 How to reach me:
 
@@ -28,17 +28,20 @@
 
 <h3>Open-source contributions</h3>
 
-- [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) - animations library for React Native,
-- [**react-native-svg**](https://github.com/software-mansion/react-native-svg) - SVG graphics library for React Native,
-- [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) - native context menu library for React Native,
-- [react-native-skia-gesture](https://github.com/enzomanuelmangano/react-native-skia-gesture) - gesture detection system for React Native Skia components,
-- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) - library to render paginated content,
+- [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) — animations library for React Native *(maintainer)*  
+- [**react-native-sortables**](https://github.com/YOUR_GITHUB_USERNAME/react-native-sortables) — sortable and draggable components for React Native *(author)*  
+
+Other contributions:  
+- [react-native-svg](https://github.com/software-mansion/react-native-svg) — SVG graphics library for React Native  
+- [react-native-context-menu-view](https://github.com/mpiannucci/react-native-context-menu-view) — native context menu library for React Native  
+- [react-native-skia-gesture](https://github.com/enzomanuelmangano/react-native-skia-gesture) — gesture detection system for React Native Skia components  
+- [react-native-pager-view](https://github.com/callstack/react-native-pager-view) — library to render paginated content  
 
 <h3>Hackathons</h3>
 
-- 🏆 **Finalist** at the [**OpenAI x AI Tinkerers**](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw) Hackathon - intelligent drone system, powered by OpenAI Agents technology, for real-time hazard detection,
-- 🥇 **Winner** of the [**BiteHack 2024 Hackathon**](https://bitehack.best.krakow.pl/) - mobile app with AI consultant helping people struggling with addictions. It fetures AI-powered addiction diagnosis and consulting,
-- 🥈 Awarded **Second** Place at the [**mHack 2023 hackathon**](https://mhack.pl/) - mobile app featuring an intelligent bot that accurately responds to law-related inquiries by referencing and quoting relevant legal paragraphs,
+- 🏆 **Finalist** at the [**OpenAI x AI Tinkerers 2025**](https://warsaw.aitinkerers.org/p/openai-x-ai-tinkerers-hackathon-warsaw) Hackathon — intelligent drone system, powered by OpenAI Agents technology, for real-time hazard detection,  
+- 🥇 **Winner** of the [**BiteHack 2024 Hackathon**](https://bitehack.best.krakow.pl/) — mobile app with an AI consultant helping people struggling with addictions. It features AI-powered addiction diagnosis and consulting,  
+- 🥈 Awarded **Second** Place at the [**mHack 2023 Hackathon**](https://mhack.pl/) — mobile app featuring an intelligent bot that accurately responds to law-related inquiries by referencing and quoting relevant legal paragraphs,  
 
 <div align="center">
 
