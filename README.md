@@ -29,7 +29,7 @@
 <h3>Open-source contributions</h3>
 
 - [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) — animations library for React Native *(maintainer)*  
-- [**react-native-sortables**](https://github.com/YOUR_GITHUB_USERNAME/react-native-sortables) — sortable and draggable components for React Native *(author)*  
+- [**react-native-sortables**](https://github.com/MatiPl01/react-native-sortables) — sortable and draggable components for React Native *(author)*  
 
 Other contributions:  
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) — SVG graphics library for React Native  
