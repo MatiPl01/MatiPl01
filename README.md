@@ -12,15 +12,15 @@
 
 ### Key facts
 
-- 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with over **3 years** of working experience,
+- 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with **4 years** of working experience,
 
 - 🎨 **Author of the CSS Animations & Transitions Core** in [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated),
 
 - 👨‍🎓 **Bachelor’s degree** (Engineering) **graduate** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Science and Technology**,
 
-- 💻 I enjoy **writing code, working on personal projects**, and **exploring new technologies**,
+- 💻 I enjoy **writing code**, **learning new things** and **exploring new technologies**,
 
-- 🌟 In my free time, I enjoy **working out** at the gym 🏋️‍♂️, **dancing** salsa and bachata 💃🕺, **listening to music** 🎵, and - if I still have any time left - **watching movies** 🎥.
+- 🌟 In my free time, I enjoy **dancing** bachata and salsa 💃🕺, **working out** at the gym 🏋️‍♂️, **listening to music** 🎵, and - if I still have any time left - **watching movies** 🎥.
 
 - 📫 How to reach me:
 
