@@ -35,7 +35,6 @@
 - [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) — author of the CSS-style animations and transitions feature introduced in version 4  
 - [**react-native-sortables**](https://github.com/MatiPl01/react-native-sortables) — sortable and draggable components for React Native *(author)*  
 - [**react-native-skia-responsive-text**](https://github.com/MatiPl01/react-native-skia-responsive-text) — text alignment, multiline layout, and truncation utilities for React Native Skia *(author)*  
-- [**react-native-library-template**](https://github.com/MatiPl01/react-native-library-template) — a React Native library starter with development tooling *(author)*  
 
 Other contributions:  
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) — SVG graphics library for React Native  
