@@ -2,7 +2,7 @@
 
 # Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mateusz
 
-### Software Engineer | Open-Source Contributor | Master of CS Student
+### Software Engineer | AI Evaluation | Open Source
 
 <br>
 
@@ -12,13 +12,17 @@
 
 ### Key facts
 
-- 👨‍💻 **Software Engineer** at [**Software Mansion**](https://www.linkedin.com/company/software-mansion) with **4 years** of working experience,
+- 👨‍💻 **Software Engineer** with experience in AI evaluation, React, React Native, and open-source libraries.
 
-- 🎨 **Author of the CSS Animations & Transitions Core** in [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated),
+- 🧪 **AI Evaluation Engineer** — designing benchmarks, software engineering tasks, scoring rubrics, and automated evaluation pipelines for **frontier AI coding agents**.
 
-- 👨‍🎓 **Bachelor’s degree** (Engineering) **graduate** in **Computer Science** from the **Faculty of Computer Science** at the **AGH University of Science and Technology**,
+- 🎨 **Author of the CSS-style animations and transitions feature** introduced in [**React Native Reanimated 4**](https://www.youtube.com/watch?v=Wr2fOM_xD2I&t=51s).
 
-- 💻 I enjoy **writing code**, **learning new things** and **exploring new technologies**,
+- 🧩 **Creator of [react-native-sortables](https://github.com/MatiPl01/react-native-sortables)** — sortable and draggable components for React Native. Building open-source libraries and developer tools.
+
+- 🏢 Previously at **Software Mansion**, where I worked on **React Native Reanimated** and contributed to the **Uniswap wallet mobile app and Chrome extension**.
+
+- 👨‍🎓 **Bachelor’s degree in Computer Science** from **AGH University of Science and Technology**.
 
 - 🌟 In my free time, I enjoy **dancing** bachata and salsa 💃🕺, **working out** at the gym 🏋️‍♂️, **listening to music** 🎵, and - if I still have any time left - **watching movies** 🎥.
 
@@ -28,8 +32,10 @@
 
 <h3>Open-source contributions</h3>
 
-- [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) — animations library for React Native *(maintainer)*  
+- [**react-native-reanimated**](https://github.com/software-mansion/react-native-reanimated) — author of the CSS-style animations and transitions feature introduced in version 4  
 - [**react-native-sortables**](https://github.com/MatiPl01/react-native-sortables) — sortable and draggable components for React Native *(author)*  
+- [**react-native-skia-responsive-text**](https://github.com/MatiPl01/react-native-skia-responsive-text) — text alignment, multiline layout, and truncation utilities for React Native Skia *(author)*  
+- [**react-native-library-template**](https://github.com/MatiPl01/react-native-library-template) — a React Native library starter with development tooling *(author)*  
 
 Other contributions:  
 - [react-native-svg](https://github.com/software-mansion/react-native-svg) — SVG graphics library for React Native  
